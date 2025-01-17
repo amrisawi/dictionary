@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $row = $result->fetch_assoc();
         echo "Wword: ". $_POST['word'] . "<br>Definition: " . $row['definition'];
     } else {
-        echo "Wword nnot found.";
+        echo "Wword nnnnnnnnnot found.";
     }
 }
 ?>
