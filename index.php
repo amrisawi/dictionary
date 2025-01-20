@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         echo "Wword: ". $_POST['word'] . "<br>Definition: " . $row['definition'];
     } else {
 
-            echo "Wword: ". $_POST['word'] . " not found" ;
+            echo "Wwnononord: ". $_POST['word'] . " not found" ;
     }
 }
 ?>
