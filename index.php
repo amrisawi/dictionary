@@ -1,6 +1,6 @@
 
 <form method="post">
-    <input type="text" name="word" placeholder="Enter a word">
+    <input type="text" name="word" placeholder="Enter a word test">
     <button type="submit">Search</button>
 </form>
 <?php
